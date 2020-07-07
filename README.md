@@ -1,3 +1,7 @@
-# Hello-world
-Sample repository, Hello-world
-Ilike java
+Spring boot
+Rest API
+JPA
+Maven 
+Git
+DMS
+PPt
